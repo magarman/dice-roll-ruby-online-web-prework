@@ -1,5 +1,5 @@
 def roll
-  Array.new
+ puts Array.new
 end
 
 Array.new(6) {rand 6}
