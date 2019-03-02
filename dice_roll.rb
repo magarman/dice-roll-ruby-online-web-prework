@@ -1,3 +1,5 @@
-def roll(rand(1..6))
+def roll
   Array.new
 end
+
+Array.new
