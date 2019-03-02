@@ -1,5 +1,3 @@
-def roll
- puts Array.new
+def roll([1, 2, 3, 4, 5, 6])
+ puts (rand 1..6)
 end
-
-Array.new(6) {rand 6}
