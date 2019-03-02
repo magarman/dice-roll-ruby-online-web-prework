@@ -1,4 +1,3 @@
 def roll(rand(1..6))
-  puts "#{rand(1..65)}"
-  retun "#{rand(1..65)}"
+  Array.new
 end
